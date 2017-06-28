@@ -1,1 +1,1 @@
-# cdnetworks
+# Folder for cdnetworks sample code
